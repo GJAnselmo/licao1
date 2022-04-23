@@ -1,0 +1,30 @@
+.corpo {
+    background-color: #201F1E;
+    margin: 0%;
+}
+.nome {
+    color: #FFDD00;
+    text-align: center;
+    background-color: black;
+    padding: 30px;
+    margin-top: 0%;
+}
+.imagem {
+    max-width: 200px;
+    max-height: 200px;
+    border-radius: 40%;
+    float: left;
+
+}
+.apresentação {
+    text-align: left;
+    position:static;
+    background-color: #25F67A;
+    border: 60px solid;
+    border-radius: 10px;
+}
+.dados {
+    color: #25F67A;
+    text-align: left;
+    padding: 0%;
+}
